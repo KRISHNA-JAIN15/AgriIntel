@@ -55,18 +55,18 @@ streamlit run app.py
 ```
 
 
-🎮 Usage
-1️⃣ Upload a leaf image for disease detection.
-2️⃣ Enter soil data (N, P, K, pH, etc.) to get crop recommendations.
-3️⃣ View weather forecasts and receive alerts for extreme conditions.
-4️⃣ Monitor farm data through an interactive dashboard.
+### 🎮 Usage
+- 1️⃣ Upload a leaf image for disease detection.
+- 2️⃣ Enter soil data (N, P, K, pH, etc.) to get crop recommendations.
+- 3️⃣ View weather forecasts and receive alerts for extreme conditions.
+- 4️⃣ Monitor farm data through an interactive dashboard.
 
 
 🛠️ Tech Stack
-Frontend: Streamlit, Plotly, Folium, CSS
-Backend: Python, FastAPI, MongoDB
-Machine Learning Models:
-Prophet (Weather Forecasting)
-Mobilenet V2 (Crop Disease Detection)
-Random Forest (Crop Recommendation)
-APIs: Openweathermap API
+- Frontend: Streamlit, Plotly, Folium, CSS
+- Backend: Python, FastAPI, MongoDB
+- Machine Learning Models:
+- Prophet (Weather Forecasting)
+- Mobilenet V2 (Crop Disease Detection)
+- Random Forest (Crop Recommendation)
+- APIs: Openweathermap API
