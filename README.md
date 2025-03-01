@@ -17,7 +17,8 @@ An intelligent system designed to **empower farmers** with **AI-driven insights*
 ### 🌦️ Weather Forecasting  
 - Predicts **temperature, humidity, rainfall, wind speed, UV index, and atmospheric pressure**.  
 - Uses **ARIMA & Prophet models** trained on **15 years of data**.  
-- **Real-time alerts** for extreme weather conditions.  
+- **Real-time alerts** for extreme weather conditions.
+- Dynamic weather updates using .json sensor values for better alignment.
 
 ### 🌱 Crop Disease Prediction & Recommendations  
 - Farmers can **upload a leaf image** to detect diseases.  
@@ -72,7 +73,8 @@ streamlit run app.py
 - Frontend: Streamlit, Plotly, Folium, CSS
 - Backend: Python, FastAPI, MongoDB
 - Machine Learning Models:
-- Prophet (Weather Forecasting)
-- Mobilenet V2 (Crop Disease Detection)
-- Random Forest (Crop Recommendation)
+  - Prophet (Weather Forecasting)
+  - Mobilenet V2 (Crop Disease Detection)
+  - Random Forest (Crop Recommendation)
+  - CropProfitAnalyzer – Predicts profitability of different crop options.
 - APIs: Openweathermap API
