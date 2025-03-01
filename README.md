@@ -4,6 +4,12 @@
 
 An intelligent system designed to **empower farmers** with **AI-driven insights**, **real-time data**, and **smart recommendations** for **better decision-making**.  
 
+![1](https://github.com/user-attachments/assets/38bb9bc7-cd1f-4a0e-b69b-0b7c4e5b0245)
+![2](https://github.com/user-attachments/assets/48983a36-11a8-4a50-be55-1d6d6f47a9ad)
+![3](https://github.com/user-attachments/assets/d5b3cbe7-043d-4936-8559-b139c19f9d43)
+![4](https://github.com/user-attachments/assets/bed8ab1a-50b8-4ca4-a605-e289bb7b22a5)
+
+
 ---
 
 ## 🚀 Features  
